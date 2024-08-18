@@ -1,3 +1,3 @@
-the first version will be for 1.12.2 forge.
+the project is in beta 
 
 later maybe older versions
